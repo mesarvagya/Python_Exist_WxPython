@@ -1,0 +1,5 @@
+
+EXISTDB_SERVER_USER = 'user'
+EXISTDB_SERVER_PASSWORD = 'admin'
+EXISTDB_SERVER_URL = "http://localhost:8899/exist"
+EXISTDB_ROOT_COLLECTION = "/db"
